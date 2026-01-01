@@ -1,6 +1,6 @@
 ### **Leak-Free Alzheimer MRI Classification + Explainable Genetic Risk Insights**
 
- A reproducible AI system for **Alzheimer’s dementia stage classification on MRI scans** using a **leak-free data pipeline**, powered by a strong **EfficientNet CNN backbone**, and enhanced with **Grad-CAM spatial attention maps** and **independent genetic risk analysis**, fused only at inference for clinician-aligned explainability.
+ A reproducible prediction system for **Alzheimer’s dementia stage classification on MRI scans** using a **leak-free data pipeline**, powered by a strong **EfficientNet CNN backbone**, and enhanced with **Grad-CAM spatial attention maps** and **independent genetic risk analysis**, fused only at inference for clinician-aligned explainability.
 
 ---
 
@@ -12,7 +12,7 @@
 - 🧬 **Genetic Risk Inference (Independent Model)** → Odds Ratio + −log10(p-value) scoring
 - 🧩 **Late Fusion at Inference Only** → No invalid MRI-genetics joint training
 - 📊 **Competition-Grade Metrics** → Accuracy, Macro-F1, AUC (OVR), Confidence Analysis
-- 💻 **Kaggle Notebook** → Cloud GPU support (`cuda:0`)
+- 💻 **Reproducible Notebook** → Cloud GPU support (`cuda:0`)
 
 ---
 
