@@ -12,7 +12,7 @@
 - 🧬 **Genetic Risk Inference (Independent Model)** → Odds Ratio + −log10(p-value) scoring
 - 🧩 **Late Fusion at Inference Only** → No invalid MRI-genetics joint training
 - 📊 **Competition-Grade Metrics** → Accuracy, Macro-F1, AUC (OVR), Confidence Analysis
-- 💻 **Kaggle Notebook Compatible** → Cloud GPU support (`cuda:0`)
+- 💻 **Kaggle Notebook** → Cloud GPU support (`cuda:0`)
 
 ---
 
@@ -40,7 +40,7 @@
 <img width="393" height="200" alt="image" src="https://github.com/user-attachments/assets/29ecdc0b-3dc5-4e57-8d07-92795c011a28" />
 
 
-✔ Both models are **trained and evaluated separately** — **never jointly** to avoid invalid learning or leakage.
+✔ Both models are **trained and evaluated separately** **never jointly** to avoid invalid learning or leakage.
 
 
 
