@@ -40,7 +40,7 @@
 <img width="393" height="200" alt="image" src="https://github.com/user-attachments/assets/29ecdc0b-3dc5-4e57-8d07-92795c011a28" />
 
 
-✔ Both models are **trained and evaluated separately** **never jointly** to avoid invalid learning or leakage.
+Both models are **trained and evaluated separately** **never jointly** to avoid invalid learning or leakage.
 
 
 
